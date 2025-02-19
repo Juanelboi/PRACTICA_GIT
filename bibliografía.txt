@@ -1,2 +1,2 @@
 Chacon, S. and Straub, B. Pro Git. Apress
-Ryan Hodson. Ry's Git Tutorial. SmashDowns (2014)
+Loeliger, J. and McCullough, M. Version control with Git. o'Reilly
